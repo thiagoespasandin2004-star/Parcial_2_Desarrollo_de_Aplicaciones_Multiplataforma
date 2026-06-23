@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"F:/bribri/Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma/Parcial2/Content/ImportedBlenderAssets/SM_piso.uasset",
+				"F:/bribri/Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma/Parcial2/Content/parcial_2/Museo_ilusiones_opticas.umap",
+				"F:/bribri/Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma/Parcial2/Content/ImportedBlenderAssets/SM_pared.uasset",
+				"F:/bribri/Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma/Parcial2/Content/ImportedBlenderAssets/SM_pared_con_puerta.uasset",
+				"F:/bribri/Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma/Parcial2/Content/ImportedBlenderAssets/SM_pared_atras.uasset",
+				"F:/bribri/Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma/Parcial2/Content/ImportedBlenderAssets/SM_puerta_der.uasset",
+				"F:/bribri/Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma/Parcial2/Content/ImportedBlenderAssets/SM_puerta_izq.uasset"
+			]
+		}
+	]
+}
