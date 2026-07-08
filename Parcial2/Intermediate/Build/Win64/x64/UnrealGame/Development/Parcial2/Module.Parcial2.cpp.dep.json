@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\parcial_2_desarrollo_de_aplicaciones_multiplataforma\\parcial2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\parcial2\\module.parcial2.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\parcial_2_desarrollo_de_aplicaciones_multiplataforma\\parcial2\\intermediate\\build\\win64\\x64\\parcial2\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\parcial_2_desarrollo_de_aplicaciones_multiplataforma\\parcial2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\parcial2\\definitions.parcial2.h",
+            "e:\\parcial_2_desarrollo_de_aplicaciones_multiplataforma\\parcial2\\intermediate\\source\\parcial2.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

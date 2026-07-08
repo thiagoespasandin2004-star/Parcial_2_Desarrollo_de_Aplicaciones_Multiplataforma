@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma\\Parcial2\\Intermediate\\Source\\Parcial2.Build.cs",
+		"E:\\Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma\\Parcial2\\Intermediate\\Source\\Parcial2.Target.cs",
+		"E:\\Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma\\Parcial2\\Intermediate\\Source\\Parcial2Client.Target.cs",
+		"E:\\Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma\\Parcial2\\Intermediate\\Source\\Parcial2Editor.Target.cs",
+		"E:\\Parcial_2_Desarrollo_de_Aplicaciones_Multiplataforma\\Parcial2\\Intermediate\\Source\\Parcial2Server.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
